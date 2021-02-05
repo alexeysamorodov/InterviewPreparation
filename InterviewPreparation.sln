@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewPreparation", "InterviewPreparation\InterviewPreparation.csproj", "{DC4C0805-0430-4B4C-83DF-C14EB05DBEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewPreparation.Tests", "InterviewPreparation.Tests\InterviewPreparation.Tests.csproj", "{CA88D320-EA86-4E79-BBF0-71DBA766C86D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4C0805-0430-4B4C-83DF-C14EB05DBEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4C0805-0430-4B4C-83DF-C14EB05DBEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4C0805-0430-4B4C-83DF-C14EB05DBEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4C0805-0430-4B4C-83DF-C14EB05DBEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA88D320-EA86-4E79-BBF0-71DBA766C86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA88D320-EA86-4E79-BBF0-71DBA766C86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA88D320-EA86-4E79-BBF0-71DBA766C86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA88D320-EA86-4E79-BBF0-71DBA766C86D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA304E1-6441-4FEC-AC41-608DE95F3756}
+	EndGlobalSection
+EndGlobal
